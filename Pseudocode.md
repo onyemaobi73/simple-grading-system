@@ -1,5 +1,6 @@
 
 START
+
   INPUT score
   IF score >= 70 AND score <= 100 THEN
     PRINT "Grade: A"
@@ -13,4 +14,5 @@ START
     PRINT "Grade: E"
   ELSE
     PRINT "Grade: F"
+    
 END
